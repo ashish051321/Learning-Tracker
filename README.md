@@ -11,9 +11,9 @@ LangChain- Develop LLM powered applications with LangChain
 https://www.udemy.com/course/langchain/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Alpha_Prof_la.EN_cc.India&campaigntype=Search&portfolio=India&language=EN&product=Course&test=&audience=DSA&topic=Data_Science&priority=Alpha&utm_content=deal4584&utm_term=_._ag_160270535185_._ad_696202838301_._kw__._de_c_._dm__._pl__._ti_dsa-1677974310676_._li_9303694_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQjw16O_BhDNARIsAC3i2GAJOLizseb4BBp5DtoCqwn-97tG_gv46jUyrjli5zMznolTCEAvGBsaAkPREALw_wcB&couponCode=IND21PM
 
 
-Day 1: 31st March 2025 - 6 Videos
+Day 1: 31st March 2025 - 6 Videos - Done
 
-1st April 2025
+1st April 2025 - 1 Video done - WIP
 
 2nd April 2025
 
